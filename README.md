@@ -8,7 +8,7 @@
 
 ## Sobre
 
-Node.js é um repositorio dividio em duas partes [Iniciando-Node](#Iniciando-Node) e [Random-Names](#Random-Names)
+Node.js é um repositorio dividido em duas partes [Iniciando-Node](#Iniciando-Node) e [Random-Names](#Random-Names)
 
 
 ## Iniciando-Node
